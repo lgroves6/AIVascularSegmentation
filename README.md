@@ -4,21 +4,21 @@ train_mrcc - file to train a Mask R-CNN algorithm to segment the CA and IJV from
 
 train_unet - file to train a U-Net algorithm to segment the CA and IJV from neck US images. The data used to train can be found under the PARTITION FOR CROSS-VALIDATION, this provides the start and end locations for a four-fold cross validation. 
 
-test_mrcnn and test_unet - files to run to obtain test results 
+test_mrcnn and test_unet - files to run to obtain test results.
 
 Unet - file that executes the U-net segmentation algorithm. 
 
-mrcnnconfig - 
+mrcnnconfig - Mask R-CNN Base Configurations class.
 
-mrcnnmodel - 
+mrcnnmodel - The main Mask R-CNN model implementation.
 
-mrcnnmodeldist -
+mrcnnmodeldist - delete?
 
-mrcnnparrallel_model - 
+mrcnnparrallel_model - Mask R-CNN Multi-GPU Support for Keras.
 
-mrcnnsubclass - 
+mrcnnsubclass - ?
 
-mrcnnutils - 
+mrcnnutils - Mask R-CNN Common utility functions and classes.
 
-mrcnnvisualize - 
+mrcnnvisualize - Mask R-CNN Display and Visualization Functions.
 
