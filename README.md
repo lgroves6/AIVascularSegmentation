@@ -22,3 +22,4 @@ mrcnnutils - Mask R-CNN Common utility functions and classes.
 
 mrcnnvisualize - Mask R-CNN Display and Visualization Functions.
 
+Please go to https://1drv.ms/u/s!Akxm4gUER2IFag1CJ1LtM_qB6HY?e=0aqATl to download the numpy image arrays. 
